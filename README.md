@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cpierceynl
-- 👀 I’m interested in Python, machine learning, large data, statistical analysis, numerical modelling, and more.
+- 👀 I’m interested in Python, machine learning, large data, statistical analysis, numerical modelling, geospatial analysis and more.
 - 🌱 I’m currently learning GUI development.
 
 <!---
